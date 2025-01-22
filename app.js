@@ -1,6 +1,12 @@
+import carros2025 from "./tabelaCarros";
+
+
 import express from "express";
 
 const app = express();
+
+app.use(express.json());
+
 
 // define a porta do servidor
 app.listen(3000, () => {
