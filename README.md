@@ -77,4 +77,4 @@ Retorna a lista completa de carros disponiveis
     ```
 
 4. **Acesse a API:**
-    A API estará disponivel em [http://localhost:3000](htpp://localhost:3000).
+    A API estará disponivel em [http://localhost:3000](http://localhost:3000).
