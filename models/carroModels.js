@@ -19,7 +19,7 @@ let carros2025 = [
 export const getALLCarros = () => carros2025;
 
 // Função que retorna um carro específico pela indentificador (Sigla)
-export const getCArrosBySigla = (sigla) => {
+export const getCarrosBySigla = (sigla) => {
   return carros2025.find((carro) => carro.sigla === sigla);
 };
 
